@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\bin\Debug\net7.0\Übung Poker Dice.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\bin\Debug\net7.0\Übung Poker Dice.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\bin\Debug\net7.0\Übung Poker Dice.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\bin\Debug\net7.0\Übung Poker Dice.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\bin\Debug\net7.0\Übung Poker Dice.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\refint\Übung Poker Dice.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\Übung Poker Dice.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Poker Dice\obj\Debug\net7.0\ref\Übung Poker Dice.dll
